@@ -1,0 +1,16 @@
+[
+  {
+    "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
+    "result": "sphere_negative_weight",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "electronics",
+    "difficulty": 2,
+    "time": "1 h",
+    "reversible": true,
+    "using": [ [ "soldering_standard", 10000 ] ],
+    "components": [ [ [ "e_scrap", 100 ] ], [ [ "scrap", 100 ] ], [ [ "cable", 10000 ] ] ],
+    "autolearn": true
+  }
+]

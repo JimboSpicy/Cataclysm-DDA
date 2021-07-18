@@ -1,0 +1,24 @@
+[
+  {
+    "id": "jfp_bag_of_volume",
+    "type": "ARMOR",
+    "name": { "str": "The bag of major volume", "str_pl": "bags of major volume" },
+    "description": "A Hello Kitty branded pink backpack that can hold a lot more than expected.",
+    "weight": "633 g",
+    "volume": "2 L",
+    "price": 42069,
+    "price_postapoc": 500,
+    "material": [ "plastic" ],
+    "symbol": "[",
+    "color": "pink",
+    "covers": [ "torso" ],
+    "looks_like": "backpack",
+    "coverage": 30,
+    "encumbrance": 2,
+    "max_encumbrance": 10,
+    "pocket_data": [ { "pocket_type": "CONTAINER", "max_contains_volume": "100000 L", "max_contains_weight": "500000 kg", "moves": 300 } ],
+    "warmth": 2,
+    "material_thickness": 2,
+    "flags": [ "BELTED", "ONLY_ONE" ]
+  }
+]

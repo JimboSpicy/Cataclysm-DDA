@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sphere_negative_weight",
+    "type": "TOOL",
+    "name": { "str": "Sphere of Negative Weight", "str_pl": "Spheres of Negative Weight" },
+    "description": "A dense tangle of scrap electronics and copper wire inside a ball of steel. It feels very light in your hands and somehow makes other items you are carrying feel lighter.",
+    "weight": "-4536 g",
+    "volume": "0 ml",
+    "price": 0,
+    "price_postapoc": 100,
+    "bashing": 6,
+    "material": [ "copper", "steel" ],
+    "symbol": "*",
+    "color": "light_gray"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "jimbofunpack",
+    "name": "Jimbo's Fun Pack",
+    "authors": [ "JimboSpicy"],
+    "description": "A collection of items made by JimboSpicy for personal enjoyment. Contains items that function as cheats as well as more sensible contraptions.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

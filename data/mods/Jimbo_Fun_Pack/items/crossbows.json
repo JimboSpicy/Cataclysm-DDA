@@ -1,0 +1,40 @@
+[
+  {
+    "id": "bullet_crossbow_auto",
+    "type": "GUN",
+	"looks_like": "bullet_crossbow",
+    "reload_noise_volume": 10,
+    "symbol": "(",
+    "color": "green",
+    "name": { "str": "automatic bullet crossbow" },
+    "description": "A bullet crossbow upgraded with a cordless drill and hopper for automatic firing. It's bulky and awkward, but effective.",
+    "price": 42069,
+    "price_postapoc": 0,
+    "material": [ "wood", "iron" ],
+    "flags": [ "NEVER_JAMS", "NON_FOULING" ],
+    "skill": "rifle",
+    "ammo": [ "pebble" ],
+    "weight": "4877 g",
+    "volume": "2250 ml",
+    "longest_side": "86 cm",
+    "bashing": 9,
+    "ranged_damage": { "damage_type": "bullet", "amount": 4 },
+    "range": 10,
+    "dispersion": 55,
+    "durability": 6,
+    "clip_size": 50,
+    "reload": 15,
+    "loudness": 9,
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "sling", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ]
+    ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "pebble": 1 } } ]
+  }
+]
